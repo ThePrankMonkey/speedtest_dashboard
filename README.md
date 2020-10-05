@@ -86,3 +86,7 @@ ___________________________________________________
 ```
 
 We have a graph of every download attempt
+
+## References
+
+- [Raspberry-Pi-E-Ink-Dashboard](https://github.com/zoharsf/Raspberry-Pi-E-Ink-Dashboard)
